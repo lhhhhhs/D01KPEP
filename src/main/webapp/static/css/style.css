@@ -1,0 +1,19 @@
+.fenleiBtn{
+    border-radius: 10px;height: 30px;line-height: 30px;margin-left: 10px;
+}
+
+.medicine {
+    width: 260px;
+    height: 300px;
+    margin-left: 80px;
+    float: left;
+}
+
+.DetailBtn {
+    border-radius: 10px;height: 30px;line-height: 30px;margin-left: 10px;
+    float: right;
+}
+
+.HotKeyBtn {
+    border-radius: 10px;height: 20px;line-height: 20px;margin-left: 10px;
+}
